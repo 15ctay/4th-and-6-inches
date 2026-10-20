@@ -1,102 +1,102 @@
 [
  {
   "rank": 1,
-  "team": "Pete",
-  "manager": "david",
-  "score": 88.3,
-  "record": "5-0-0",
-  "pf": 612.7,
-  "form": 123.86,
-  "blurb": "5-0 with 612.70 PF (#3 in the league). The team everyone is chasing."
+  "team": "Waz",
+  "manager": "andrew",
+  "score": 83.6,
+  "record": "5-1-0",
+  "pf": 746.26,
+  "form": 107.67,
+  "blurb": "5-1 with 746.26 PF (#1 in the league). The team everyone is chasing."
  },
  {
   "rank": 2,
-  "team": "Waz",
-  "manager": "andrew",
-  "score": 85.1,
-  "record": "4-1-0",
-  "pf": 631.86,
-  "form": 124.81,
-  "blurb": "Hottest stretch around: 124.81 per game over the last two. Last out: L 100.94-113.80."
+  "team": "Pete",
+  "manager": "david",
+  "score": 77.9,
+  "record": "5-1-0",
+  "pf": 694.24,
+  "form": 113.42,
+  "blurb": "Hottest stretch around: 113.42 per game over the last two. Last out: L 81.54-114.40."
  },
  {
   "rank": 3,
-  "team": "Radio",
-  "manager": "Dill",
-  "score": 73.6,
-  "record": "3-2-0",
-  "pf": 621.96,
-  "form": 122.71,
-  "blurb": "3-2, 621.96 PF (#2). Coming off a 116.40-point loss."
+  "team": "Witness da thickness",
+  "manager": "Aaron",
+  "score": 73.8,
+  "record": "4-2-0",
+  "pf": 674.8,
+  "form": 124.23,
+  "blurb": "Hottest stretch around: 124.23 per game over the last two. Last out: W 117.88-95.22."
  },
  {
   "rank": 4,
   "team": "Hail King Gunther",
   "manager": "stephen",
-  "score": 71.3,
-  "record": "2-3-0",
-  "pf": 610,
-  "form": 134.81,
-  "blurb": "Hottest stretch around: 134.81 per game over the last two. Last out: W 161.06-95.90."
+  "score": 72.1,
+  "record": "3-3-0",
+  "pf": 700.1,
+  "form": 125.58,
+  "blurb": "700.10 PF is #3 in the league, but the record says 3-3. The points are there; the luck isn't."
  },
  {
   "rank": 5,
-  "team": "1 and 13",
-  "manager": "Matthew",
-  "score": 56.6,
-  "record": "3-2-0",
-  "pf": 577.08,
-  "form": 112.21,
-  "blurb": "3-2, 577.08 PF (#5). Coming off a 113.80-point win."
+  "team": "Radio",
+  "manager": "Dill",
+  "score": 71.6,
+  "record": "4-2-0",
+  "pf": 718.56,
+  "form": 106.5,
+  "blurb": "4-2, 718.56 PF (#2). Coming off a 96.60-point win."
  },
  {
   "rank": 6,
-  "team": "Witness da thickness",
-  "manager": "Aaron",
-  "score": 51.8,
-  "record": "3-2-0",
-  "pf": 556.92,
-  "form": 111.49,
-  "blurb": "3-2 on just 556.92 PF (#6). Wins are wins, but the schedule has been kind."
+  "team": "1 and 13",
+  "manager": "Matthew",
+  "score": 56.2,
+  "record": "3-3-0",
+  "pf": 672.96,
+  "form": 104.84,
+  "blurb": "3-3, averaging 104.84 over the last two (#8 in form). Time to tinker."
  },
  {
   "rank": 7,
-  "team": "Hard On",
-  "manager": "Rob",
-  "score": 43.9,
-  "record": "3-2-0",
-  "pf": 554.46,
-  "form": 100.77,
-  "blurb": "3-2 on just 554.46 PF (#7). Wins are wins, but the schedule has been kind."
+  "team": "Parker? I hardly know her",
+  "manager": "ctay",
+  "score": 49.4,
+  "record": "2-4-0",
+  "pf": 655.28,
+  "form": 110.05,
+  "blurb": "2-4, 655.28 PF (#7). Coming off a 124.20-point win."
  },
  {
   "rank": 8,
-  "team": "Big Fudge",
-  "manager": "Max",
-  "score": 29.1,
-  "record": "1-4-0",
-  "pf": 527.82,
-  "form": 110.96,
-  "blurb": "1-4, 527.82 PF (#9). Coming off a 126.60-point loss."
+  "team": "Hard On",
+  "manager": "Rob",
+  "score": 48.6,
+  "record": "3-3-0",
+  "pf": 649.68,
+  "form": 98.04,
+  "blurb": "3-3, averaging 98.04 over the last two (#9 in form). Time to tinker."
  },
  {
   "rank": 9,
-  "team": "Parker? I hardly know her",
-  "manager": "ctay",
-  "score": 21.2,
-  "record": "1-4-0",
-  "pf": 531.08,
-  "form": 98.39,
-  "blurb": "1-4, averaging 98.39 over the last two (#10 in form). Time to tinker."
+  "team": "Big Fudge",
+  "manager": "Max",
+  "score": 33.6,
+  "record": "1-5-0",
+  "pf": 613.62,
+  "form": 106.2,
+  "blurb": "1-5, 613.62 PF (#9). Coming off a 85.80-point loss."
  },
  {
   "rank": 10,
   "team": "Shough Boyz",
   "manager": "ryan (Commissioner)",
-  "score": 2.6,
-  "record": "0-5-0",
-  "pf": 470.14,
-  "form": 102.14,
-  "blurb": "0-5, averaging 102.14 over the last two (#8 in form). Time to tinker."
+  "score": 0,
+  "record": "0-6-0",
+  "pf": 540.56,
+  "form": 79.63,
+  "blurb": "0-6, averaging 79.63 over the last two (#10 in form). Time to tinker."
  }
 ]
